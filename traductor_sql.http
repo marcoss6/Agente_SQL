@@ -1,0 +1,7 @@
+
+POST http://localhost:8000/explicar
+Content-Type: application/json
+
+{
+  "query": "SELECT nombre FROM clientes WHERE edad > 60;"
+}
