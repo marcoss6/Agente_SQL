@@ -70,7 +70,7 @@ Salida explicada:
 - traductor_sql.http      # Prueba rápida desde VS Code
 - requirements.txt        # Dependencias del proyecto
 - README.md               # Este archivo
-
+- .gitignore              # Evita subir tu .env, entorno virtual, etc.
 
 
 
