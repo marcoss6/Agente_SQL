@@ -65,11 +65,11 @@ Salida explicada:
   "Selecciona el nombre de los clientes que tienen más de 60 años."
 
 ### 📁 Archivos incluidos
-├── main.py                 # Código del agente FastAPI
-├── .env.example            # Plantilla para definir tu API key
-├── traductor_sql.http      # Prueba rápida desde VS Code
-├── requirements.txt        # Dependencias del proyecto
-└── README.md               # Este archivo
+- main.py                 # Código del agente FastAPI
+- .env.example            # Plantilla para definir tu API key
+- traductor_sql.http      # Prueba rápida desde VS Code
+- requirements.txt        # Dependencias del proyecto
+- README.md               # Este archivo
 
 
 
